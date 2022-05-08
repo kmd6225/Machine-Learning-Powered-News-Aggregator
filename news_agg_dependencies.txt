@@ -1,4 +1,4 @@
-matplotlib.pyplot
+matplotlib
 requests
 bs4
 nltk
