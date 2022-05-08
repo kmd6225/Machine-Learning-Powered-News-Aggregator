@@ -1,0 +1,4 @@
+matplotlib.pyplot
+requests
+bs4
+nltk
